@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Md. Kawsar (OJANA‑MK)</h1>
+<h1 align="center">👨‍💻 Md.Kawsar (OJANA‑MK)</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Bug+Bounty+Hunter;Reverse+Engineer;Tech+Lover+from+Bangladesh&center=true&width=500&height=45&color=0e99c2&vCenter=true&size=22">
@@ -15,7 +15,10 @@
 ### 👋 About Me
 
 ```yaml
-Name: Md. Kawsar
+Name: Md.Kawsar
 Alias: OJANA‑MK
 From: Feni, Bangladesh 🇧🇩
+Birthday: 18 June
+Relationship: Single
+Hobby: Programming
 Passion: Building apps that serve real-world needs
