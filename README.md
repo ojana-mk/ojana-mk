@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://ojana-mk.xyz"><img src="https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=Google-Chrome"></a>
-  <a href="mailto:admin@ojana-mk.xyz"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
-  <a href="https://t.me/OJANA_MK"><img src="https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram"></a>
+  <a href="mailto:mdkawsar@duck.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
+  <a href="https://t.me/ojanamkBot"><img src="https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram"></a>
 </p>
 
 ---
