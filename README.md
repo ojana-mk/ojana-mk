@@ -95,6 +95,22 @@
 
 ---
 
+## 🏆 Achievements
+
+- 🚀 Built 10+ real-world apps  
+- ⭐ Open source contributor  
+- 📱 Published Android apps  
+
+---
+
+## 📩 Let's Work Together
+
+If you need a reliable developer for your project, feel free to contact me.
+
+I focus on delivering high-quality, scalable solutions and quick communication.
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -108,14 +124,6 @@
     <img src="https://img.shields.io/badge/Livechat-orange?style=for-the-badge&logo=livechat" />
   </a>
 </p>
-
----
-
-## 🏆 Achievements
-
-- 🚀 Built 10+ real-world apps  
-- ⭐ Open source contributor  
-- 📱 Published Android apps  
 
 ---
 
