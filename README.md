@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co.com/5hZjv40Z/mdkawsar-cover.jpg" width="100%" alt="MD-KAWSAR" />
 </p>
 
-<h1 align="center">Hi 👋, I'm MD-KAWSAR</h1>
+<h1 align="center">Hi 👋,\n I'm MD-KAWSAR</h1>
 <!--h3 align="center">Full Stack Developer</h3-->
 
 <!-- 🔥 Typing Animation -->
