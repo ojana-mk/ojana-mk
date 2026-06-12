@@ -132,7 +132,9 @@ I build scalable, high-performance web and mobile applications that solve real b
 👉 Clean UI with smooth navigation and mobile-friendly design
 
 <p align="center">
+<a href="https://ojana-mk.netlify.app">
   <img src="https://i.ibb.co.com/FCNvyjC/Screenshot-2026-02-20-150031.png" alt="MD-KAWSAR" />
+</a>
 </p>
 
 ---
